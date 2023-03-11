@@ -10,8 +10,8 @@ El botón de *Eliminar todo*, elimina todas las fotos actuales en la galería.
 *Nota: Es altamente probable que no se encuentren imágenes para una fecha o una cámara introducidas, por lo que a veces será necesario realizar varias búsquedas.*
 A continuación se detallas algunas fechas y cámaras para las que encontrará imágenes:
 
-Fecha: 3/06/2015 Cámaras: FHAZ, RHAZ
-Fecha: 12/08/2015 Cámaras: FHAZ, RHAZ, CHEMCAM, MAST, MAHLI, MARDI, NAVCAM 
-Fecha: 14/10/2022 Cámaras: FHAZ, RHAZ, CHEMCAM, MAST, NAVCAM
+Fecha: 3/06/2015 Cámaras: FHAZ, RHAZ <br>
+Fecha: 12/08/2015 Cámaras: FHAZ, RHAZ, CHEMCAM, MAST, MAHLI, MARDI, NAVCAM <br>
+Fecha: 14/10/2022 Cámaras: FHAZ, RHAZ, CHEMCAM, MAST, NAVCAM <br>
 
 Animo a realizar algunas pruebas de búsquedas.
