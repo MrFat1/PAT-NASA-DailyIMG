@@ -1,4 +1,4 @@
-# PAT-Pr-ctica-3
+# PAT-NASA-DailyIMG
 
 La página principal (index.html) contiene la imágen de Astronomía del día, ofrecida por la NASA como fondo de pantalla de la página. Además se muestra tanto el título de la imagen como la descripción asociada a esta. Justo debajo de la descripción hay un enlace para poder visualizar la imagen en una nueva pestaña en formato HD. (Al ponerla de fondo de pantalla las dimensiones pueden no ajustarse correctamente, por lo que se ofrece esta alternativa para visualizar la imagen completa).
 
